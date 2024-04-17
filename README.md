@@ -10,10 +10,10 @@
 - 🌱 I’m currently working on Bitcoin High Frequency Trading and NeuraCoin.
 - 🤝 I'm open for freelancing/Internships opportunities.
 - 🌱 I’m learning more about Machine Learning and Blockchain.
-- 💬 Ask me about **Python, ML, BI**.
+- 💬 Ask me about **Python, Machine Learning, BI , Data Analysis , Web Devlopement ,python Scripting**.
 - 📫 How to reach me: **ankushpandey436@gmail.com**
 - 📄 Here's my [Resume](https://github.com/Ankush2201/Ankush2201/files/15008271/Ankushpandey_2ndyear_CSEDS_60009230211.pdf)
-- ⚡ Fun fact: I love connecting with different people from around the world 🌎.
+- ⚡  I love connecting with different people from around the world 🌎.
 
 <br/>
 
