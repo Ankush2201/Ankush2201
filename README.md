@@ -6,7 +6,7 @@
   <img align="right" top="500" height="300" width="400" alt="Coding GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working at [ZELTA LAB](https://zeltalabs.com/) focusing on HFT using ML.
+- 🔭 I’m currently focusing on HFT using ML.
 - 🌱 I’m currently working on Bitcoin High Frequency Trading and NeuraCoin.
 - 🤝 I'm open for freelancing/Internships opportunities.
 - 🌱 I’m learning more about Machine Learning and Blockchain.
