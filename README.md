@@ -12,7 +12,8 @@
 - 🌱 I’m learning more about Machine Learning and Blockchain.
 - 💬 Ask me about **Python, Machine Learning, BI , Data Analysis , Web Devlopement ,python Scripting**.
 - 📫 How to reach me: **ankushpandey436@gmail.com**
-- 📄 Here's my [Resume](https://github.com/Ankush2201/Ankush2201/files/15008271/Ankushpandey_2ndyear_CSEDS_60009230211.pdf)
+
+- 📄 Here's my [Resume](https://github.com/Ankush2201/Ankush2201/files/15239224/Ankushpandey_Resume_f.pdf)
 - ⚡  I love connecting with different people from around the world 🌎.
 
 <br/>
