@@ -105,11 +105,9 @@ I'm a passionate Software Developer and Machine Learning enthusiast from Mumbai,
 
 ---
 
-## ⚡ Fun & Interactive
-
 - I’m a huge fan of **coffee**, **coding**, and the endless possibilities of **AI & Blockchain**!
 - Check out my contribution graph for a glimpse into my coding journey:  
-  [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ankush2201&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ankush2201)](https://github.com/ashutosh00710/github-readme-activity-graph)
 - **Quote of the Day:**  
   > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
