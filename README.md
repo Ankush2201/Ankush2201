@@ -12,7 +12,6 @@ I'm a passionate Software Developer and Machine Learning enthusiast from Mumbai,
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Coding GIF"/>
 
-- 🔭 Currently focused on **Bitcoin High Frequency Trading** and **NeuraCoin**.
 - 🌱 Deeply involved in **Python**, **Machine Learning**, **Data Analysis**, and **Web Development**.
 - 🤝 Open to exciting freelance and internship opportunities.
 - ⚡ I enjoy connecting with creative minds and exploring new tech trends!
